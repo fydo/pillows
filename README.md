@@ -1,7 +1,11 @@
 # pillows
 A simple save-the-world game where you lob pillows under warheads.
 
-This game was originally created in 2007 as a warm-up for the Pyweek 4 Warmup, an informal game development challenge between community members.
+![Screenshot 1](https://github.com/fydo/pillows/raw/main/screenshot1.jpg "Pillows - Screenshot 1")
+
+![Screenshot 2](https://github.com/fydo/pillows/raw/main/screenshot2.jpg "Pillows - Screenshot 2")
+
+This game was originally created in 2007 for the Pyweek 4 Warmup, an informal game development challenge between community members to prepare for Pyweek 4.
 
 Here is the original README:
 
@@ -56,12 +60,6 @@ Here is the original README:
             so you won't get too bored waiting for it to fall.
 
     LICENSE
-        The code is licensed under the GPL, as noted below. 
-        The assets (everything in the data directory) is under
-            the Free Art License (FAL).
-        Please see LICENSE.txt in the data directory for more 
-            information about the FAL. Thanks!
-        
         ----------------------------------------------------------
 
         pillows - a save-the-world arcade game
